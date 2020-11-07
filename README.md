@@ -1,6 +1,7 @@
 ### Hey there, I'm Jonas - Full Stack Web Developer 👋
 
 <br>
+
 ### Experience with:
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/"><img align="left"  alt="CSharp" width="26px" src="assets/csharp.png"/></a> 
 <a href="https://dotnet.microsoft.com/apps/aspnet/mvc"><img align="left" alt="MVC" width="26px" src="assets/mvc.png"/></a>
@@ -13,6 +14,7 @@
 <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><img align="left" alt="REST API" width="26px" src="assets/api.png"/></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="assets/git.png"/></a>
  << Click 👆 on to see details
+ 
 <br>
 
 ### - Currently learning:
