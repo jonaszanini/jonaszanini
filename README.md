@@ -1,4 +1,4 @@
-### Hey there, I'm Jonas - Full Stack Web Developer 👋
+### Hey there, I'm Jonas - Full Stack Web Developer 👋...
 
 <br>
 
@@ -14,10 +14,10 @@
 <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><img align="left" alt="REST API" width="26px" src="assets/api.png"/></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="assets/git.png"/></a>
  << Click 👆 on to see details
- 
+
 <br>
 
-### - Currently learning:
+### Currently learning:
 <a href="https://nodejs.org/en/about/"><img align="left" alt="Node.js" width="26px" src="assets/node.png"/></a>
 <a href="https://reactjs.org/"><img align="left" alt="React.js" width="26px" src="assets/react.png"/></a>
 <a href="https://reactnative.dev/"><img align="left" alt="React Native" width="26px" src="assets/react-native.png"/></a>
