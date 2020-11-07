@@ -15,10 +15,10 @@
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="assets/git.png"/></a>
  << Click on to see details
 
-
-### - 🌱 I’m currently learning:
-<a href="https://nodejs.org/en/about/"><img align="left" alt="Node.js" width="26px" src="assets/git.png"/></a>
-<a href="https://reactjs.org/"><img align="left" alt="React.js" width="26px" src="assets/git.png"/></a>
-<a href="https://reactnative.dev/"><img align="left" alt="React Native" width="26px" src="assets/git.png"/></a>
-<a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="26px" src="assets/git.png"/></a>
+<br>
+### - I’m currently learning:
+<a href="https://nodejs.org/en/about/"><img align="left" alt="Node.js" width="26px" src="assets/node.png"/></a>
+<a href="https://reactjs.org/"><img align="left" alt="React.js" width="26px" src="assets/react.png"/></a>
+<a href="https://reactnative.dev/"><img align="left" alt="React Native" width="26px" src="assets/react-native.png"/></a>
+<a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="26px" src="assets/ts.png"/></a>
  << Click on to see details
