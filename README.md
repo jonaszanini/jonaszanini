@@ -1,7 +1,5 @@
 ### Hey there, I'm Jonas - Full Stack Web Developer 👋
 
-"...a code lover and passionate about making people's life easier and helping them to make better decisions through technologies 💻"
-
 ### Experience with:
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/"><img align="left"  alt="CSharp" width="26px" src="assets/csharp.png"/></a> 
 <a href="https://dotnet.microsoft.com/apps/aspnet/mvc"><img align="left" alt="MVC" width="26px" src="assets/mvc.png"/></a>
@@ -16,7 +14,8 @@
  << Click on to see details
 
 <br>
-### - I’m currently learning:
+
+### - Currently learning:
 <a href="https://nodejs.org/en/about/"><img align="left" alt="Node.js" width="26px" src="assets/node.png"/></a>
 <a href="https://reactjs.org/"><img align="left" alt="React.js" width="26px" src="assets/react.png"/></a>
 <a href="https://reactnative.dev/"><img align="left" alt="React Native" width="26px" src="assets/react-native.png"/></a>
