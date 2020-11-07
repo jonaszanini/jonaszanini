@@ -1,9 +1,9 @@
 ### Hey there, I'm Jonas - Full Stack Web Developer 👋
 
-## "I am a code lover and passionate about making people's life easier and helping them to make better decisions through technologies"
+"...a code lover and passionate about making people's life easier and helping them to make better decisions through technologies 💻"
 
 ### Experience with:
-<img align="left"  alt="CSharp" width="26px" src="assets/csharp.png"/>
+[<img align="left"  alt="CSharp" width="26px" src="assets/csharp.png"/>][CSharp]
 <img align="left" alt="MVC" width="26px" src="assets/mvc.png"/>
 <img align="left" alt="Microsoft SQL" width="26px" src="assets/sql.png"/>
 <img align="left" alt="MySQL" width="26px" src="assets/mysql.png"/>
@@ -31,3 +31,6 @@ Node.js
 React.js
 React Native
 TypeScript
+
+
+[CSharp]: https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/
