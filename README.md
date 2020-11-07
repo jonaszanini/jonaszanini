@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there, I'm Jonas - Full Stack Web Developer 👋
 
-<!--
-**jonaszanini/jonaszanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## "I am a code lover and passionate about making people's life easier and helping them to make better decisions through technologies"
 
-Here are some ideas to get you started:
+### Experience with:
+<img align="left" alt="CSharp" width="25px" src="assets/csharp.png" /> - C# .NET
+MVC
+Microsoft SQL
+MySQL
+HTML5
+CSS3
+Bootstrap
+Meterial UI
+REST API
+Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 🌱 I’m currently learning:
+Node.js
+React.js
+React Native
+TypeScript
