@@ -3,8 +3,8 @@
 ## "I am a code lover and passionate about making people's life easier and helping them to make better decisions through technologies"
 
 ### Experience with:
-<img alt="CSharp" width="26px" src="assets/csharp.png"/> - C# .NET
-<img alt="MVC" width="26px" src="assets/mvc.png"/> MVC
+<img alt="CSharp" width="26px" src="assets/csharp.png"/> <div style="padding-bottom: 5px">- C# .NET</div><br>
+<img alt="MVC" width="26px" src="assets/mvc.png"/> MVC<br>
 Microsoft SQL
 MySQL
 HTML5
