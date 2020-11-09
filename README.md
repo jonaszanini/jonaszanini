@@ -7,6 +7,7 @@
 <a href="https://dotnet.microsoft.com/apps/aspnet/mvc"><img align="left" target="_blank" alt="MVC" width="26px" src="assets/mvc.png"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server"><img align="left" target="_blank" alt="Microsoft SQL" width="26px" src="assets/sql.png"/></a>
 <a href="https://www.mysql.com/"><img align="left" target="_blank" alt="MySQL" width="26px" src="assets/mysql.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" target="_blank" alt="JavaScript" width="26px" src="assets/js.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img align="left" target="_blank" alt="HTML5" width="26px" src="assets/html.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img align="left" target="_blank" alt="CSS3" width="26px" src="assets/css.png"/></a>
 <a href="https://getbootstrap.com/"><img align="left" target="_blank" alt="Bootstrap" width="26px" src="assets/bootstrap.png"/></a>
